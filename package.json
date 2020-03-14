@@ -1,5 +1,5 @@
 {
-  "name": "javascript-debounce",
+  "name": "javascript-debouncer.js",
   "version": "1.0.0",
   "description": "javacript debounce function ",
   "main": "./dist/index.js",
